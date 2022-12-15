@@ -1,0 +1,18 @@
+.odd {
+    font-family:Verdana,"DejaVu Sans",sans-serif;
+    background-color: rgb(247, 113, 113);
+}
+.odd.ok {
+    font-size: 24px;
+}
+
+#ooksville {
+    font-size: 36px;
+    color: #2286dd;
+}
+
+#ooksville2 {
+    background-color: hsl(120, 64%, 60%);
+    font-size: 24px;
+    font-weight: bold;
+}
